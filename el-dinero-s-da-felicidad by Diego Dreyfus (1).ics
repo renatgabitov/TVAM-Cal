@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:b5150964-d772-4dca-9307-cfdbb2c10648
+SUMMARY:El Dinero Sí Da Felicidad by Diego Dreyfus
+DTSTAMP:20190521T224600Z
+DTSTART:20190523T210000Z
+DESCRIPTION:Acompáñame reflexionar sobre:\nNuestra relación con el dine
+ ro\nPor qué el dinero sí da felicidad\nEntender el sistema capitalista\n
+   \n¡Ponte las pilas!..Porque estaré regalando cosas durante la transmis
+ ión:\n- 50 clases gratis de mi nuevo curso en línea: El Dinero Según Yo
+ \n- Descuentos para mis cursos.\n\nTe mandaré un correo con tu link de ingreso exclusivo, 10 minutos antes de que empiece el webinar. También puedes ingresar por medio del mail de confirmación que recibiste al registrarte.
+
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR
